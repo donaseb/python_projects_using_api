@@ -17,6 +17,8 @@ This repository contains two Python projects that utilize API calls within Pytho
   >![image](https://github.com/user-attachments/assets/bf04eda9-a975-4cca-ace0-cb1cf6c5ed51)
   >convert the script to python .
 2.Set Up AWS Lambda Function.
-  >
+  >go to awsconsole
+  > create function> Select Author from Scratch.>give fun name weather_app> sleelct python as runtime>Role: For now, you can choose Create a new role with basic Lambda permissions. This will create a role that allows Lambda to log to CloudWatch logs.>clickcreate fun
+>
 
 
